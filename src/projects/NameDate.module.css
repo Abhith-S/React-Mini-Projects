@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+
+.container_title{
+    font-size: 53px;
+    
+}
+
+.container_data{
+    padding: 10%;
+    margin: 50px;
+    line-height: 4.4rem;
+    font-size: 22px;
+}
+
+.container_input_date{
+    position: relative;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.container_input_name{
+    padding: 10px;
+}
