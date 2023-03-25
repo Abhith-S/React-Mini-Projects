@@ -1,0 +1,17 @@
+.container_box_body_image{
+    width: 40vw;
+}
+.container_box_footer{
+    display: flex;
+    justify-content: space-between;
+    width: 30vw;
+    margin-top: 2%;
+}
+
+.container_box_headerBox{
+    background-color: burlywood;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
