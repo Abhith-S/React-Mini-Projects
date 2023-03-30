@@ -1,11 +1,11 @@
 
 import "./App.css";
-import Reviews from "./projects/1-Reviews/Reviews";
+import Accordian from "./projects/4-Accordian/Accordian";
 
 function App() {
   return <div className="App">
    <div>
-   < Reviews />
+   < Accordian />
    </div>
   </div>;
 }

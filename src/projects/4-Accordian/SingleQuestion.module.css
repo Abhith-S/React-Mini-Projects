@@ -1,0 +1,13 @@
+.question{
+    padding: 2%;
+}
+
+.question_info{
+    padding: .5%;
+    padding-left: 5%;
+}
+
+.question_button{
+    font-size: 22px;
+    margin-left: 2%;
+}
