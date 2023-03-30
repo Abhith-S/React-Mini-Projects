@@ -1,11 +1,11 @@
 
 import "./App.css";
-import TourMain from "./projects/2-Tours/TourMain";
+import Reviews from "./projects/1-Reviews/Reviews";
 
 function App() {
   return <div className="App">
    <div>
-    < TourMain />
+   < Reviews />
    </div>
   </div>;
 }
