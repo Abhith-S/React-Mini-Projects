@@ -1,0 +1,13 @@
+.alert{
+    background: turquoise;
+    width: 40vw;
+    height: 5vh;
+    font-size: 25px;   
+    margin: 2%;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.fadeAlert{
+    animation: fadeAlert 0.5s ease-in-out;
+}
