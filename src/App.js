@@ -1,11 +1,12 @@
 
 import "./App.css";
-import Menumain from "./projects/5-Menu/Menumain";
+import TemperatureController from "./projects/06-TemperatureController/TemperatureController";
+
 
 function App() {
   return <div className="App">
    <div >
-    <Menumain/>
+    <TemperatureController />
    </div>
   </div>;
 }

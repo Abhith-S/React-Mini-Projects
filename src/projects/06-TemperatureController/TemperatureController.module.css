@@ -1,0 +1,31 @@
+.blue{
+    background: rgb(3, 206, 206);
+    height: 40vh;
+    width: 40vh;
+    border-radius: 50%;
+    color: white;
+    margin-left: 18rem;
+}
+
+.temp_text{
+    margin-left: 7rem;
+    padding-top: 16%;
+    font-size: 4rem;
+}
+
+.button{
+    font-size: 3.5rem;
+    margin-left: 4.5rem;
+    margin-top: 4rem;
+    color: black;
+}
+
+.red{
+    background-color: red;
+    height: 40vh;
+    width: 40vh;
+    border-radius: 50%;
+    color: white;
+    margin-left: 18rem;
+}
+
